@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SubmissionDicoding</string>
+    <string name="views_name">Nama Tempat</string>
+    <string name="views_slug">potongan_detail</string>
+    <string name="about">About</string>
+    <string name="profileName">Rahmat Hidayat</string>
+    <string name="email">rh63800@gmail.com</string>
+</resources>
